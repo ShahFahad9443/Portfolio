@@ -8,10 +8,10 @@ function Footer() {
         <p>©2025.All Rights Reserved</p>
         <p>Fahad Coding</p>
         <div className="flex justify-center space-x-4 text-white mt-4">
-            <a className="hover:text-purple-500" href=""> <FaFacebook  className="w-6 h-6"/></a>
+            <a className="hover:text-purple-500" href="https://www.facebook.com/share/1BxrLB8Ra9/?mibextid=wwXIfr"> <FaFacebook  className="w-6 h-6"/></a>
             <a className="hover:text-purple-500" href=""> <FaTwitter   className="w-6 h-6"/></a>
-            <a className="hover:text-purple-500" href=""> <FaLinkedin  className="w-6 h-6"/></a>
-            <a className="hover:text-purple-500" href=""> <FaInstagram className="w-6 h-6"/></a>
+            <a className="hover:text-purple-500" href="https://www.linkedin.com/in/shah-fahad-6820912bb/"> <FaLinkedin  className="w-6 h-6"/></a>
+            <a className="hover:text-purple-500" href="https://www.instagram.com/shah__fahad._/"> <FaInstagram className="w-6 h-6"/></a>
         </div>
 
     </div>
